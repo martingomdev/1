@@ -1,0 +1,15 @@
+{
+  "id": "LIC26092021513706E1",
+  "user": "testuser",
+  "created": "2026-09-20",
+  "expires": "2026-09-27",
+  "days_valid": 7,
+  "mode": "single",
+  "scripts": [
+    "all"
+  ],
+  "dsa_signature": "jTZVl40mLwHVdmy/aDiU9VJOPqIWf8yGgnhr7HQ79hizrz/mclUX++k2H95Erv+xhG4vCK4N0tSIJSzp1UHmig==",
+  "rsa_signature": "ndUwNE5+amhikPKbQWcpIiW1HGO2cs8zi1+pYnCgrzWxXdb9Mc8L1lnqxMzk7T1kZouQXFJH+Am1i6+P6Rvpb7NGCJO0Dau4WbdyGulHi9orhP91c7BXF42ofD+QZF4fAi6ZeHORJMJdbc7/NJV5yQkTqYdSshOwOzhxg1Z8BIlxs2euTBtEnfoRr1lF1nZl32hogDY92JkhMl+Z3xBez33Zx6HT2UBumGSEIBUlU6E1iRNm4pXhRKfvJ9ZmK+/WX82MwnA50XBU0HkG45ovksjriktK4wpUR9dfH4Qda7Cw7UuXj80Tcvv32ZQ6/38Pr//E8ZN7oyWNPafEZGcTlQ==",
+  "machine_id": "VM-7-15-ubuntux86_64",
+  "checksum": ""
+}
